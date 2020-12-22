@@ -10,6 +10,10 @@ body{
     border-style: outset;
 }
 
+.top{
+    padding-bottom: 50px;
+}
+
 h1{
     text-align: center;
 }
@@ -40,7 +44,6 @@ input[type="button"]:hover{
     margin:5px;
 }
 
-.button{
-    height: 20px;
+button{
     margin:5px;
 }
